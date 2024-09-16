@@ -10,3 +10,6 @@
 https://github.com/user-attachments/assets/2c5536f9-9ecf-4bf6-97e9-21b318d8420b
 
 
+![alt text](https://github.com/AliBacik/Car-Parking-Hyper-Causal-Game/blob/main/SS/1.PNG)
+![alt text](https://github.com/AliBacik/Car-Parking-Hyper-Causal-Game/blob/main/SS/2.PNG)
+
