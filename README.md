@@ -7,7 +7,10 @@
 
 ## GamePlay
 
-https://github.com/user-attachments/assets/2c5536f9-9ecf-4bf6-97e9-21b318d8420b
+# UPDATE
+https://github.com/user-attachments/assets/3a7b3d65-1048-4986-85f4-204fa0848bbc
+
+
 
 
 ![alt text](https://github.com/AliBacik/Car-Parking-Hyper-Causal-Game/blob/main/SS/1.PNG)
